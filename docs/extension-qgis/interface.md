@@ -44,13 +44,14 @@ Elle présente plusieurs onglets :
 Ainsi qu'une zone contenant des **boutons d'action** :
 
 * 2 boutons pour **exporter** au format PDF :
-  - le **relevé parcellaire**
-  - le **relevé de propriété** avec une option pour réalisé un export sur toutes les communes ou seulement à la commune de la parcelle
-* 3 boutons pour **interagir avec l'objet géométrique** lié à la parcelle : centrer la carte sur la
-  parcelle, zoomer sur la parcelle, ou sélectionner l'objet dans la couche
+    * le **relevé parcellaire**
+    * le **relevé de propriété** avec une option pour réaliser un export sur toutes les communes ou seulement
+     à la commune de la parcelle
+* 3 boutons pour **interagir avec l'objet géométrique** lié à la parcelle :
+    * centrer la carte sur la parcelle
+    * zoomer sur la parcelle
+    * sélectionner l'objet dans la couche
 * Un dernier bouton pour **sélectionner dans la couche toutes les parcelles du propriétaire**
-
-
 
 > Si vous n'avez pas importé de données FANTOIR, la commune de la parcelle ne sera pas affichée dans la
 > fenêtre et l'adresse pourra être tronquée (de même pour les relevés exportés)
